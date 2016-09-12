@@ -10,6 +10,10 @@ namespace TestGit_Console
     {
         static void Main(string[] args)
         {
+            var aText = "just a text";
+
+            Console.WriteLine(aText);
+
         }
     }
 }
