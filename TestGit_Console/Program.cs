@@ -16,6 +16,8 @@ namespace TestGit_Console
 
             Console.WriteLine(Utils.AddAQuestionmark(aText));
 
+            Console.WriteLine(Utils.AddAQuestionmark(aText));
+
         }
     }
 }
