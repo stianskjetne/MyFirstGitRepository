@@ -18,7 +18,7 @@ namespace TestGit_Console
 
             Console.WriteLine(Utils.AddAQuestionmark(aText));
 
-            Console.WriteLine("Another change");
+            Console.WriteLine("Another change with a change");
         }
     }
 }
